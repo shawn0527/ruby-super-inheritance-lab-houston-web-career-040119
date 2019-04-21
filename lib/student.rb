@@ -6,4 +6,4 @@ class Student
   def raise_hand
     puts "Pick me!"
   end
-endß
+end
